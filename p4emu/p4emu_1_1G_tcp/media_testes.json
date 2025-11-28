@@ -1,0 +1,3053 @@
+{
+	"start": {
+		"connected": [
+			{
+				"socket": 5,
+				"local_host": "20.20.20.20",
+				"local_port": 55050,
+				"remote_host": "10.10.10.10",
+				"remote_port": 5201
+			}
+		],
+		"version": "iperf 3.19.1",
+		"system_info": "Linux host2 6.12.33+deb13-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.12.33-1 (2025-06-19) x86_64",
+		"timestamp": {
+			"time": "Sun, 16 Nov 2025 00:10:32 GMT",
+			"timesecs": 1763251832
+		},
+		"connecting_to": {
+			"host": "10.10.10.10",
+			"port": 5201
+		},
+		"cookie": "zzsivabwkiwvky32dozvo2ed2gqka45roewh",
+		"tcp_mss_default": 1448,
+		"target_bitrate": 1000000000,
+		"fq_rate": 0,
+		"sock_bufsize": 0,
+		"sndbuf_actual": 16384,
+		"rcvbuf_actual": 131072,
+		"test_start": {
+			"protocol": "TCP",
+			"num_streams": 1,
+			"blksize": 131072,
+			"omit": 0,
+			"duration": 300,
+			"bytes": 0,
+			"blocks": 0,
+			"reverse": 0,
+			"tos": 0,
+			"target_bitrate": 1000000000,
+			"bidir": 0,
+			"fqrate": 0,
+			"interval": 1
+		},
+		"test_description": "M\u00e9dia de 30 testes"
+	},
+	"intervals": [
+		{
+			"sum": {
+				"start": 0,
+				"end": 1.0,
+				"seconds": 1.0,
+				"bits_per_second": 1000270523.844868,
+				"bytes": 125033815,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 1.000552,
+				"end": 2.000552,
+				"seconds": 1.0,
+				"bits_per_second": 999901907.5604007,
+				"bytes": 124987738,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 2.001164,
+				"end": 3.001164,
+				"seconds": 1.0,
+				"bits_per_second": 999396412.1769453,
+				"bytes": 124924551,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 3.001246,
+				"end": 4.001246,
+				"seconds": 1.0,
+				"bits_per_second": 999880222.0252472,
+				"bytes": 124985027,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 4.001176,
+				"end": 5.001176,
+				"seconds": 1.0,
+				"bits_per_second": 999895442.663947,
+				"bytes": 124986930,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 5.001148,
+				"end": 6.001148,
+				"seconds": 1.0,
+				"bits_per_second": 999351031.4556098,
+				"bytes": 124918878,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 6.001125,
+				"end": 7.001125,
+				"seconds": 1.0,
+				"bits_per_second": 999542677.8748137,
+				"bytes": 124942834,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 7.001164,
+				"end": 8.001164,
+				"seconds": 1.0,
+				"bits_per_second": 1000032115.3530774,
+				"bytes": 125004014,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 8.000856,
+				"end": 9.000856,
+				"seconds": 1.0,
+				"bits_per_second": 999353251.6837904,
+				"bytes": 124919156,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 9.001116,
+				"end": 10.001116,
+				"seconds": 1.0,
+				"bits_per_second": 999740844.6155282,
+				"bytes": 124967605,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 10.001091,
+				"end": 11.001091,
+				"seconds": 1.0,
+				"bits_per_second": 1000074445.5077593,
+				"bytes": 125009305,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 11.001076,
+				"end": 12.001076,
+				"seconds": 1.0,
+				"bits_per_second": 999437738.0186121,
+				"bytes": 124929717,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 12.001141,
+				"end": 13.001141,
+				"seconds": 1.0,
+				"bits_per_second": 999350261.9758729,
+				"bytes": 124918782,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 13.001123,
+				"end": 14.001123,
+				"seconds": 1.0,
+				"bits_per_second": 999908639.0162623,
+				"bytes": 124988579,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 14.000805,
+				"end": 15.000805,
+				"seconds": 1.0,
+				"bits_per_second": 999701149.0789754,
+				"bytes": 124962643,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 15.00114,
+				"end": 16.00114,
+				"seconds": 1.0,
+				"bits_per_second": 999383640.4993768,
+				"bytes": 124922955,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 16.0011,
+				"end": 17.0011,
+				"seconds": 1.0,
+				"bits_per_second": 1000078761.0507448,
+				"bytes": 125009845,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 17.001136,
+				"end": 18.001136,
+				"seconds": 1.0,
+				"bits_per_second": 999753665.7742503,
+				"bytes": 124969208,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 18.001155,
+				"end": 19.001155,
+				"seconds": 1.0,
+				"bits_per_second": 999355970.761483,
+				"bytes": 124919496,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 19.001123,
+				"end": 20.001123,
+				"seconds": 1.0,
+				"bits_per_second": 1000071863.9928657,
+				"bytes": 125008982,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 20.001135,
+				"end": 21.001135,
+				"seconds": 1.0,
+				"bits_per_second": 999968330.4076928,
+				"bytes": 124996041,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 21.001132,
+				"end": 22.001132,
+				"seconds": 1.0,
+				"bits_per_second": 999259940.8795294,
+				"bytes": 124907492,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 22.000371,
+				"end": 23.000371,
+				"seconds": 1.0,
+				"bits_per_second": 999976405.6766974,
+				"bytes": 124997050,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 23.001114,
+				"end": 24.001114,
+				"seconds": 1.0,
+				"bits_per_second": 1000016922.7403319,
+				"bytes": 125002115,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 24.001363,
+				"end": 25.001363,
+				"seconds": 1.0,
+				"bits_per_second": 999428215.6698738,
+				"bytes": 124928526,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 25.001112,
+				"end": 26.001112,
+				"seconds": 1.0,
+				"bits_per_second": 999879779.4839923,
+				"bytes": 124984972,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 26.001242,
+				"end": 27.001242,
+				"seconds": 1.0,
+				"bits_per_second": 999968245.296822,
+				"bytes": 124996030,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 27.001147,
+				"end": 28.001147,
+				"seconds": 1.0,
+				"bits_per_second": 999263991.798602,
+				"bytes": 124907998,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 28.001147,
+				"end": 29.001147,
+				"seconds": 1.0,
+				"bits_per_second": 999935444.1763229,
+				"bytes": 124991930,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 29.000699,
+				"end": 30.000699,
+				"seconds": 1.0,
+				"bits_per_second": 999945405.6075708,
+				"bytes": 124993175,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 30.001,
+				"end": 31.001,
+				"seconds": 1.0,
+				"bits_per_second": 999507254.0966907,
+				"bytes": 124938406,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 31.001127,
+				"end": 32.001127,
+				"seconds": 1.0,
+				"bits_per_second": 1000108436.1600099,
+				"bytes": 125013554,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 32.001168,
+				"end": 33.001168,
+				"seconds": 1.0,
+				"bits_per_second": 999925254.3753325,
+				"bytes": 124990656,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 33.001144,
+				"end": 34.001144,
+				"seconds": 1.0,
+				"bits_per_second": 999446139.1297758,
+				"bytes": 124930767,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 34.001112,
+				"end": 35.001112,
+				"seconds": 1.0,
+				"bits_per_second": 999901655.7438118,
+				"bytes": 124987706,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 35.001121,
+				"end": 36.001121,
+				"seconds": 1.0,
+				"bits_per_second": 1000046361.1624641,
+				"bytes": 125005795,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 36.001115,
+				"end": 37.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999429687.2049857,
+				"bytes": 124928710,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 37.001132,
+				"end": 38.001132,
+				"seconds": 1.0,
+				"bits_per_second": 999831644.9353863,
+				"bytes": 124978955,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 38.001112,
+				"end": 39.001112,
+				"seconds": 1.0,
+				"bits_per_second": 999922261.3199468,
+				"bytes": 124990282,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 39.001115,
+				"end": 40.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999328962.8277119,
+				"bytes": 124916120,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 40.000926,
+				"end": 41.000926,
+				"seconds": 1.0,
+				"bits_per_second": 999753605.7615693,
+				"bytes": 124969200,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 41.000569,
+				"end": 42.000569,
+				"seconds": 1.0,
+				"bits_per_second": 999886958.3992524,
+				"bytes": 124985869,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 42.001,
+				"end": 43.001,
+				"seconds": 1.0,
+				"bits_per_second": 999504653.5829931,
+				"bytes": 124938081,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 43.001139,
+				"end": 44.001139,
+				"seconds": 1.0,
+				"bits_per_second": 999878422.9408473,
+				"bytes": 124984802,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 44.001184,
+				"end": 45.001184,
+				"seconds": 1.0,
+				"bits_per_second": 999851804.4931551,
+				"bytes": 124981475,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 45.001135,
+				"end": 46.001135,
+				"seconds": 1.0,
+				"bits_per_second": 999423884.0240685,
+				"bytes": 124927985,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 46.000158,
+				"end": 47.000158,
+				"seconds": 1.0,
+				"bits_per_second": 999774417.8214432,
+				"bytes": 124971802,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 47.000535,
+				"end": 48.000535,
+				"seconds": 1.0,
+				"bits_per_second": 999969325.9622682,
+				"bytes": 124996165,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 48.001147,
+				"end": 49.001147,
+				"seconds": 1.0,
+				"bits_per_second": 999351714.4693624,
+				"bytes": 124918964,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 49.001132,
+				"end": 50.001132,
+				"seconds": 1.0,
+				"bits_per_second": 999865395.3450875,
+				"bytes": 124983174,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 50.001112,
+				"end": 51.001112,
+				"seconds": 1.0,
+				"bits_per_second": 1000097188.2740356,
+				"bytes": 125012148,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 51.001141,
+				"end": 52.001141,
+				"seconds": 1.0,
+				"bits_per_second": 999423137.9834104,
+				"bytes": 124927892,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 52.001128,
+				"end": 53.001128,
+				"seconds": 1.0,
+				"bits_per_second": 999649317.0420887,
+				"bytes": 124956164,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 53.001153,
+				"end": 54.001153,
+				"seconds": 1.0,
+				"bits_per_second": 1000103402.363096,
+				"bytes": 125012925,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 54.001138,
+				"end": 55.001138,
+				"seconds": 1.0,
+				"bits_per_second": 999610406.7429397,
+				"bytes": 124951300,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 55.001182,
+				"end": 56.001182,
+				"seconds": 1.0,
+				"bits_per_second": 999430723.6290088,
+				"bytes": 124928840,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 56.000636,
+				"end": 57.000636,
+				"seconds": 1.0,
+				"bits_per_second": 1000031783.4131165,
+				"bytes": 125003972,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 57.000806,
+				"end": 58.000806,
+				"seconds": 1.0,
+				"bits_per_second": 999667951.9835377,
+				"bytes": 124958493,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 58.001256,
+				"end": 59.001256,
+				"seconds": 1.0,
+				"bits_per_second": 999433458.747374,
+				"bytes": 124929182,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 59.001179,
+				"end": 60.001179,
+				"seconds": 1.0,
+				"bits_per_second": 1000042771.3698527,
+				"bytes": 125005346,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 60.001127,
+				"end": 61.001127,
+				"seconds": 1.0,
+				"bits_per_second": 999881990.0390217,
+				"bytes": 124985248,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 61.001108,
+				"end": 62.001108,
+				"seconds": 1.0,
+				"bits_per_second": 999302325.6114777,
+				"bytes": 124912790,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 62.001115,
+				"end": 63.001115,
+				"seconds": 1.0,
+				"bits_per_second": 1000149017.460555,
+				"bytes": 125018627,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 63.00112,
+				"end": 64.00112,
+				"seconds": 1.0,
+				"bits_per_second": 999830195.8858501,
+				"bytes": 124978774,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 64.00128,
+				"end": 65.00128,
+				"seconds": 1.0,
+				"bits_per_second": 999368662.3220335,
+				"bytes": 124921082,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 65.000394,
+				"end": 66.000394,
+				"seconds": 1.0,
+				"bits_per_second": 1000027956.9964734,
+				"bytes": 125003494,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 66.001144,
+				"end": 67.001144,
+				"seconds": 1.0,
+				"bits_per_second": 999978902.0042031,
+				"bytes": 124997362,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 67.001136,
+				"end": 68.001136,
+				"seconds": 1.0,
+				"bits_per_second": 999373042.003219,
+				"bytes": 124921630,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 68.001146,
+				"end": 69.001146,
+				"seconds": 1.0,
+				"bits_per_second": 1000095554.0086633,
+				"bytes": 125011944,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 69.001216,
+				"end": 70.001216,
+				"seconds": 1.0,
+				"bits_per_second": 999935070.4522684,
+				"bytes": 124991883,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 70.001087,
+				"end": 71.001087,
+				"seconds": 1.0,
+				"bits_per_second": 999255272.0122192,
+				"bytes": 124906909,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 71.001097,
+				"end": 72.001097,
+				"seconds": 1.0,
+				"bits_per_second": 1000126511.5666994,
+				"bytes": 125015813,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 72.000755,
+				"end": 73.000755,
+				"seconds": 1.0,
+				"bits_per_second": 999939139.415545,
+				"bytes": 124992392,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 73.001007,
+				"end": 74.001007,
+				"seconds": 1.0,
+				"bits_per_second": 999284303.3790385,
+				"bytes": 124910537,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 74.00032,
+				"end": 75.00032,
+				"seconds": 1.0,
+				"bits_per_second": 999978955.8888383,
+				"bytes": 124997369,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 75.001131,
+				"end": 76.001131,
+				"seconds": 1.0,
+				"bits_per_second": 999917051.626365,
+				"bytes": 124989631,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 76.001177,
+				"end": 77.001177,
+				"seconds": 1.0,
+				"bits_per_second": 999405793.6823444,
+				"bytes": 124925724,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 77.001139,
+				"end": 78.001139,
+				"seconds": 1.0,
+				"bits_per_second": 1000021799.1845651,
+				"bytes": 125002724,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 78.000658,
+				"end": 79.000658,
+				"seconds": 1.0,
+				"bits_per_second": 999921749.4633361,
+				"bytes": 124990218,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 79.000993,
+				"end": 80.000993,
+				"seconds": 1.0,
+				"bits_per_second": 999425773.3675483,
+				"bytes": 124928221,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 80.000282,
+				"end": 81.000282,
+				"seconds": 1.0,
+				"bits_per_second": 999983482.7032284,
+				"bytes": 124997935,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 81.001126,
+				"end": 82.001126,
+				"seconds": 1.0,
+				"bits_per_second": 1000072211.2360941,
+				"bytes": 125009026,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 82.001111,
+				"end": 83.001111,
+				"seconds": 1.0,
+				"bits_per_second": 999447480.9606824,
+				"bytes": 124930935,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 83.000227,
+				"end": 84.000227,
+				"seconds": 1.0,
+				"bits_per_second": 1000018883.5269506,
+				"bytes": 125002360,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 84.000591,
+				"end": 85.000591,
+				"seconds": 1.0,
+				"bits_per_second": 999932713.8511817,
+				"bytes": 124991589,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 85.001177,
+				"end": 86.001177,
+				"seconds": 1.0,
+				"bits_per_second": 999420285.4556382,
+				"bytes": 124927535,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 86.001126,
+				"end": 87.001126,
+				"seconds": 1.0,
+				"bits_per_second": 1000040525.3638861,
+				"bytes": 125005065,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 87.001124,
+				"end": 88.001124,
+				"seconds": 1.0,
+				"bits_per_second": 1000013044.179857,
+				"bytes": 125001630,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 88.001128,
+				"end": 89.001128,
+				"seconds": 1.0,
+				"bits_per_second": 999338108.036081,
+				"bytes": 124917263,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 89.001115,
+				"end": 90.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999854704.7272375,
+				"bytes": 124981838,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 90.000573,
+				"end": 91.000573,
+				"seconds": 1.0,
+				"bits_per_second": 1000016678.5078032,
+				"bytes": 125002084,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 91.00099,
+				"end": 92.00099,
+				"seconds": 1.0,
+				"bits_per_second": 999446848.892767,
+				"bytes": 124930856,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 92.001138,
+				"end": 93.001138,
+				"seconds": 1.0,
+				"bits_per_second": 999578645.0176674,
+				"bytes": 124947330,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 93.000548,
+				"end": 94.000548,
+				"seconds": 1.0,
+				"bits_per_second": 1000000207.8334205,
+				"bytes": 125000025,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 94.00111,
+				"end": 95.00111,
+				"seconds": 1.0,
+				"bits_per_second": 999381159.4840444,
+				"bytes": 124922644,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 95.001132,
+				"end": 96.001132,
+				"seconds": 1.0,
+				"bits_per_second": 999619260.9610106,
+				"bytes": 124952407,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 96.001148,
+				"end": 97.001148,
+				"seconds": 1.0,
+				"bits_per_second": 1000125433.4791348,
+				"bytes": 125015679,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 97.001156,
+				"end": 98.001156,
+				"seconds": 1.0,
+				"bits_per_second": 999457814.620503,
+				"bytes": 124932226,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 98.001131,
+				"end": 99.001131,
+				"seconds": 1.0,
+				"bits_per_second": 999632052.6265755,
+				"bytes": 124954006,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 99.000478,
+				"end": 100.000478,
+				"seconds": 1.0,
+				"bits_per_second": 1000023951.0130414,
+				"bytes": 125002993,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 100.001115,
+				"end": 101.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999626540.1659391,
+				"bytes": 124953317,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 101.00113,
+				"end": 102.00113,
+				"seconds": 1.0,
+				"bits_per_second": 999517641.0412772,
+				"bytes": 124939705,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 102.001157,
+				"end": 103.001157,
+				"seconds": 1.0,
+				"bits_per_second": 1000015882.1538974,
+				"bytes": 125001985,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 103.00118,
+				"end": 104.00118,
+				"seconds": 1.0,
+				"bits_per_second": 999875669.6074015,
+				"bytes": 124984458,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 104.00112,
+				"end": 105.00112,
+				"seconds": 1.0,
+				"bits_per_second": 999390110.1513301,
+				"bytes": 124923763,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 105.001094,
+				"end": 106.001094,
+				"seconds": 1.0,
+				"bits_per_second": 999978008.6124332,
+				"bytes": 124997251,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 106.001113,
+				"end": 107.001113,
+				"seconds": 1.0,
+				"bits_per_second": 999908370.5448924,
+				"bytes": 124988546,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 107.001173,
+				"end": 108.001173,
+				"seconds": 1.0,
+				"bits_per_second": 999290008.2561291,
+				"bytes": 124911251,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 108.001109,
+				"end": 109.001109,
+				"seconds": 1.0,
+				"bits_per_second": 1000098672.2124034,
+				"bytes": 125012334,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 109.001117,
+				"end": 110.001117,
+				"seconds": 1.0,
+				"bits_per_second": 999900597.710132,
+				"bytes": 124987574,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 110.001113,
+				"end": 111.001113,
+				"seconds": 1.0,
+				"bits_per_second": 999471620.6852143,
+				"bytes": 124933952,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 111.001111,
+				"end": 112.001111,
+				"seconds": 1.0,
+				"bits_per_second": 999892715.2796303,
+				"bytes": 124986589,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 112.001133,
+				"end": 113.001133,
+				"seconds": 1.0,
+				"bits_per_second": 999906347.5471938,
+				"bytes": 124988293,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 113.001161,
+				"end": 114.001161,
+				"seconds": 1.0,
+				"bits_per_second": 999323426.5515523,
+				"bytes": 124915428,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 114.001162,
+				"end": 115.001162,
+				"seconds": 1.0,
+				"bits_per_second": 1000067772.93732,
+				"bytes": 125008471,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 115.000694,
+				"end": 116.000694,
+				"seconds": 1.0,
+				"bits_per_second": 999924864.0605608,
+				"bytes": 124990608,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 116.001089,
+				"end": 117.001089,
+				"seconds": 1.0,
+				"bits_per_second": 999385590.778415,
+				"bytes": 124923198,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 117.000417,
+				"end": 118.000417,
+				"seconds": 1.0,
+				"bits_per_second": 1000067955.0557107,
+				"bytes": 125008494,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 118.00067,
+				"end": 119.00067,
+				"seconds": 1.0,
+				"bits_per_second": 999853375.3472973,
+				"bytes": 124981671,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 119.001159,
+				"end": 120.001159,
+				"seconds": 1.0,
+				"bits_per_second": 999525079.3505464,
+				"bytes": 124940634,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 120.001121,
+				"end": 121.001121,
+				"seconds": 1.0,
+				"bits_per_second": 1000000534.2609341,
+				"bytes": 125000066,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 121.001177,
+				"end": 122.001177,
+				"seconds": 1.0,
+				"bits_per_second": 1000031010.3765854,
+				"bytes": 125003876,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 122.001152,
+				"end": 123.001152,
+				"seconds": 1.0,
+				"bits_per_second": 999382959.195846,
+				"bytes": 124922869,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 123.001193,
+				"end": 124.001193,
+				"seconds": 1.0,
+				"bits_per_second": 999985575.3359656,
+				"bytes": 124998196,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 124.001096,
+				"end": 125.001096,
+				"seconds": 1.0,
+				"bits_per_second": 999873708.8304583,
+				"bytes": 124984213,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 125.000691,
+				"end": 126.000691,
+				"seconds": 1.0,
+				"bits_per_second": 999429147.9037697,
+				"bytes": 124928643,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 126.001116,
+				"end": 127.001116,
+				"seconds": 1.0,
+				"bits_per_second": 999955173.5287468,
+				"bytes": 124994396,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 127.00058,
+				"end": 128.00058,
+				"seconds": 1.0,
+				"bits_per_second": 999917244.9911464,
+				"bytes": 124989655,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 128.001018,
+				"end": 129.001018,
+				"seconds": 1.0,
+				"bits_per_second": 999260949.9150654,
+				"bytes": 124907618,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 129.001156,
+				"end": 130.001156,
+				"seconds": 1.0,
+				"bits_per_second": 1000037800.369466,
+				"bytes": 125004725,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 130.001144,
+				"end": 131.001144,
+				"seconds": 1.0,
+				"bits_per_second": 1000116227.9598765,
+				"bytes": 125014528,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 131.00113,
+				"end": 132.00113,
+				"seconds": 1.0,
+				"bits_per_second": 999360768.9931757,
+				"bytes": 124920096,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 132.000199,
+				"end": 133.000199,
+				"seconds": 1.0,
+				"bits_per_second": 1000087826.3309437,
+				"bytes": 125010978,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 133.001076,
+				"end": 134.001076,
+				"seconds": 1.0,
+				"bits_per_second": 999975096.0113522,
+				"bytes": 124996887,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 134.001141,
+				"end": 135.001141,
+				"seconds": 1.0,
+				"bits_per_second": 999398170.8703902,
+				"bytes": 124924771,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 135.001119,
+				"end": 136.001119,
+				"seconds": 1.0,
+				"bits_per_second": 999967256.4723738,
+				"bytes": 124995907,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 136.001151,
+				"end": 137.001151,
+				"seconds": 1.0,
+				"bits_per_second": 1000035644.7541438,
+				"bytes": 125004455,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 137.001146,
+				"end": 138.001146,
+				"seconds": 1.0,
+				"bits_per_second": 999422924.5965422,
+				"bytes": 124927865,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 138.001071,
+				"end": 139.001071,
+				"seconds": 1.0,
+				"bits_per_second": 999592060.7544987,
+				"bytes": 124949007,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 139.001125,
+				"end": 140.001125,
+				"seconds": 1.0,
+				"bits_per_second": 1000127494.3042039,
+				"bytes": 125015936,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 140.001125,
+				"end": 141.001125,
+				"seconds": 1.0,
+				"bits_per_second": 999446756.537843,
+				"bytes": 124930844,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 141.001122,
+				"end": 142.001122,
+				"seconds": 1.0,
+				"bits_per_second": 999538990.0472674,
+				"bytes": 124942373,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 142.001123,
+				"end": 143.001123,
+				"seconds": 1.0,
+				"bits_per_second": 1000101775.2299966,
+				"bytes": 125012721,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 143.001095,
+				"end": 144.001095,
+				"seconds": 1.0,
+				"bits_per_second": 999621673.5070035,
+				"bytes": 124952709,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 144.001118,
+				"end": 145.001118,
+				"seconds": 1.0,
+				"bits_per_second": 999466365.788255,
+				"bytes": 124933295,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 145.000428,
+				"end": 146.000428,
+				"seconds": 1.0,
+				"bits_per_second": 999932972.8685583,
+				"bytes": 124991621,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 146.001159,
+				"end": 147.001159,
+				"seconds": 1.0,
+				"bits_per_second": 999762902.4435471,
+				"bytes": 124970362,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 147.001137,
+				"end": 148.001137,
+				"seconds": 1.0,
+				"bits_per_second": 999278150.7688944,
+				"bytes": 124909768,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 148.001106,
+				"end": 149.001106,
+				"seconds": 1.0,
+				"bits_per_second": 1000255879.1726445,
+				"bytes": 125031984,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 149.001145,
+				"end": 150.001145,
+				"seconds": 1.0,
+				"bits_per_second": 999956992.7796241,
+				"bytes": 124994624,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 150.001131,
+				"end": 151.001131,
+				"seconds": 1.0,
+				"bits_per_second": 999431897.8314596,
+				"bytes": 124928987,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 151.001161,
+				"end": 152.001161,
+				"seconds": 1.0,
+				"bits_per_second": 1000186328.6102349,
+				"bytes": 125023291,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 152.00075,
+				"end": 153.00075,
+				"seconds": 1.0,
+				"bits_per_second": 999962279.1080108,
+				"bytes": 124995284,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 153.001124,
+				"end": 154.001124,
+				"seconds": 1.0,
+				"bits_per_second": 999330131.7241517,
+				"bytes": 124916266,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 154.001121,
+				"end": 155.001121,
+				"seconds": 1.0,
+				"bits_per_second": 1000000817.1839064,
+				"bytes": 125000102,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 155.001136,
+				"end": 156.001136,
+				"seconds": 1.0,
+				"bits_per_second": 1000067545.9013821,
+				"bytes": 125008443,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 156.001143,
+				"end": 157.001143,
+				"seconds": 1.0,
+				"bits_per_second": 999392785.9856926,
+				"bytes": 124924098,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 157.000418,
+				"end": 158.000418,
+				"seconds": 1.0,
+				"bits_per_second": 999924702.6132258,
+				"bytes": 124990587,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 158.001134,
+				"end": 159.001134,
+				"seconds": 1.0,
+				"bits_per_second": 1000032205.9570882,
+				"bytes": 125004025,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 159.001272,
+				"end": 160.001272,
+				"seconds": 1.0,
+				"bits_per_second": 999368860.6872956,
+				"bytes": 124921107,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 160.001125,
+				"end": 161.001125,
+				"seconds": 1.0,
+				"bits_per_second": 1000046850.0614227,
+				"bytes": 125005856,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 161.000656,
+				"end": 162.000656,
+				"seconds": 1.0,
+				"bits_per_second": 999885585.3571534,
+				"bytes": 124985698,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 162.001206,
+				"end": 163.001206,
+				"seconds": 1.0,
+				"bits_per_second": 999360541.7721587,
+				"bytes": 124920067,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 163.001111,
+				"end": 164.001111,
+				"seconds": 1.0,
+				"bits_per_second": 1000085391.5199353,
+				"bytes": 125010673,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 164.001105,
+				"end": 165.001105,
+				"seconds": 1.0,
+				"bits_per_second": 999975613.692939,
+				"bytes": 124996951,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 165.001178,
+				"end": 166.001178,
+				"seconds": 1.0,
+				"bits_per_second": 999421730.569513,
+				"bytes": 124927716,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 166.001116,
+				"end": 167.001116,
+				"seconds": 1.0,
+				"bits_per_second": 1000127910.7441932,
+				"bytes": 125015988,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 167.001146,
+				"end": 168.001146,
+				"seconds": 1.0,
+				"bits_per_second": 1000200767.1326958,
+				"bytes": 125025095,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 168.001021,
+				"end": 169.001021,
+				"seconds": 1.0,
+				"bits_per_second": 999407000.9437134,
+				"bytes": 124925875,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 169.001231,
+				"end": 170.001231,
+				"seconds": 1.0,
+				"bits_per_second": 999872542.1115144,
+				"bytes": 124984067,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 170.001151,
+				"end": 171.001151,
+				"seconds": 1.0,
+				"bits_per_second": 999893171.0442413,
+				"bytes": 124986646,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 171.0011,
+				"end": 172.0011,
+				"seconds": 1.0,
+				"bits_per_second": 999272512.5894042,
+				"bytes": 124909064,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 172.001167,
+				"end": 173.001167,
+				"seconds": 1.0,
+				"bits_per_second": 999997704.5193776,
+				"bytes": 124999713,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 173.000577,
+				"end": 174.000577,
+				"seconds": 1.0,
+				"bits_per_second": 1000016383.1580762,
+				"bytes": 125002047,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 174.001123,
+				"end": 175.001123,
+				"seconds": 1.0,
+				"bits_per_second": 999445141.069527,
+				"bytes": 124930642,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 175.0002,
+				"end": 176.0002,
+				"seconds": 1.0,
+				"bits_per_second": 1000037686.1392132,
+				"bytes": 125004710,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 176.001151,
+				"end": 177.001151,
+				"seconds": 1.0,
+				"bits_per_second": 1000212376.0850546,
+				"bytes": 125026547,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 177.000989,
+				"end": 178.000989,
+				"seconds": 1.0,
+				"bits_per_second": 999499584.291476,
+				"bytes": 124937448,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 178.001111,
+				"end": 179.001111,
+				"seconds": 1.0,
+				"bits_per_second": 999643897.801751,
+				"bytes": 124955487,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 179.001118,
+				"end": 180.001118,
+				"seconds": 1.0,
+				"bits_per_second": 1000065282.0113237,
+				"bytes": 125008160,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 180.001194,
+				"end": 181.001194,
+				"seconds": 1.0,
+				"bits_per_second": 999450098.2397664,
+				"bytes": 124931262,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 181.001109,
+				"end": 182.001109,
+				"seconds": 1.0,
+				"bits_per_second": 999680220.062749,
+				"bytes": 124960027,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 182.001128,
+				"end": 183.001128,
+				"seconds": 1.0,
+				"bits_per_second": 1000138621.5850087,
+				"bytes": 125017327,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 183.001115,
+				"end": 184.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999305967.4408532,
+				"bytes": 124913245,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 184.001127,
+				"end": 185.001127,
+				"seconds": 1.0,
+				"bits_per_second": 999752560.0024934,
+				"bytes": 124969070,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 185.001115,
+				"end": 186.001115,
+				"seconds": 1.0,
+				"bits_per_second": 1000037971.0521636,
+				"bytes": 125004746,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 186.000814,
+				"end": 187.000814,
+				"seconds": 1.0,
+				"bits_per_second": 999559554.0848244,
+				"bytes": 124944944,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 187.001203,
+				"end": 188.001203,
+				"seconds": 1.0,
+				"bits_per_second": 999532394.4800614,
+				"bytes": 124941549,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 188.001145,
+				"end": 189.001145,
+				"seconds": 1.0,
+				"bits_per_second": 1000033304.8327132,
+				"bytes": 125004163,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 189.001151,
+				"end": 190.001151,
+				"seconds": 1.0,
+				"bits_per_second": 999678215.4824493,
+				"bytes": 124959776,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 190.001117,
+				"end": 191.001117,
+				"seconds": 1.0,
+				"bits_per_second": 999435938.3489288,
+				"bytes": 124929492,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 191.001142,
+				"end": 192.001142,
+				"seconds": 1.0,
+				"bits_per_second": 1000089168.4775834,
+				"bytes": 125011146,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 192.000917,
+				"end": 193.000917,
+				"seconds": 1.0,
+				"bits_per_second": 999773827.496029,
+				"bytes": 124971728,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 193.001124,
+				"end": 194.001124,
+				"seconds": 1.0,
+				"bits_per_second": 999376919.7521542,
+				"bytes": 124922114,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 194.001161,
+				"end": 195.001161,
+				"seconds": 1.0,
+				"bits_per_second": 1000012873.1201663,
+				"bytes": 125001609,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 195.001113,
+				"end": 196.001113,
+				"seconds": 1.0,
+				"bits_per_second": 999788708.402891,
+				"bytes": 124973588,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 196.001156,
+				"end": 197.001156,
+				"seconds": 1.0,
+				"bits_per_second": 999424805.1538821,
+				"bytes": 124928100,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 197.001118,
+				"end": 198.001118,
+				"seconds": 1.0,
+				"bits_per_second": 1000130998.4992986,
+				"bytes": 125016374,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 198.001101,
+				"end": 199.001101,
+				"seconds": 1.0,
+				"bits_per_second": 999973315.7543951,
+				"bytes": 124996664,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 199.001118,
+				"end": 200.001118,
+				"seconds": 1.0,
+				"bits_per_second": 999425682.5944939,
+				"bytes": 124928210,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 200.000357,
+				"end": 201.000357,
+				"seconds": 1.0,
+				"bits_per_second": 999906855.8585885,
+				"bytes": 124988356,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 201.001125,
+				"end": 202.001125,
+				"seconds": 1.0,
+				"bits_per_second": 999949736.9860162,
+				"bytes": 124993717,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 202.000246,
+				"end": 203.000246,
+				"seconds": 1.0,
+				"bits_per_second": 999458631.0293735,
+				"bytes": 124932328,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 203.000467,
+				"end": 204.000467,
+				"seconds": 1.0,
+				"bits_per_second": 1000145112.9562609,
+				"bytes": 125018139,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 204.000686,
+				"end": 205.000686,
+				"seconds": 1.0,
+				"bits_per_second": 1000086306.9596714,
+				"bytes": 125010788,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 205.001175,
+				"end": 206.001175,
+				"seconds": 1.0,
+				"bits_per_second": 999413536.7933006,
+				"bytes": 124926692,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 206.001138,
+				"end": 207.001138,
+				"seconds": 1.0,
+				"bits_per_second": 1000003251.9505454,
+				"bytes": 125000406,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 207.000655,
+				"end": 208.000655,
+				"seconds": 1.0,
+				"bits_per_second": 1000108902.9494151,
+				"bytes": 125013612,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 208.00115,
+				"end": 209.00115,
+				"seconds": 1.0,
+				"bits_per_second": 999471372.2887763,
+				"bytes": 124933921,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 209.000252,
+				"end": 210.000252,
+				"seconds": 1.0,
+				"bits_per_second": 999908062.7654902,
+				"bytes": 124988507,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 210.000747,
+				"end": 211.000747,
+				"seconds": 1.0,
+				"bits_per_second": 999904126.8347157,
+				"bytes": 124988015,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 211.000931,
+				"end": 212.000931,
+				"seconds": 1.0,
+				"bits_per_second": 999293485.7140796,
+				"bytes": 124911685,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 212.00025,
+				"end": 213.00025,
+				"seconds": 1.0,
+				"bits_per_second": 1000006290.0174861,
+				"bytes": 125000786,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 213.001129,
+				"end": 214.001129,
+				"seconds": 1.0,
+				"bits_per_second": 1000021448.949398,
+				"bytes": 125002681,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 214.001191,
+				"end": 215.001191,
+				"seconds": 1.0,
+				"bits_per_second": 999393251.9057001,
+				"bytes": 124924156,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 215.000403,
+				"end": 216.000403,
+				"seconds": 1.0,
+				"bits_per_second": 1000131751.1306098,
+				"bytes": 125016468,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 216.0011,
+				"end": 217.0011,
+				"seconds": 1.0,
+				"bits_per_second": 1000105901.8801681,
+				"bytes": 125013237,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 217.00112,
+				"end": 218.00112,
+				"seconds": 1.0,
+				"bits_per_second": 999405744.4079746,
+				"bytes": 124925718,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 218.001107,
+				"end": 219.001107,
+				"seconds": 1.0,
+				"bits_per_second": 999996027.2594374,
+				"bytes": 124999503,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 219.001119,
+				"end": 220.001119,
+				"seconds": 1.0,
+				"bits_per_second": 1000019575.3140377,
+				"bytes": 125002446,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 220.001161,
+				"end": 221.001161,
+				"seconds": 1.0,
+				"bits_per_second": 999371236.1792351,
+				"bytes": 124921404,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 221.001133,
+				"end": 222.001133,
+				"seconds": 1.0,
+				"bits_per_second": 999909867.7193725,
+				"bytes": 124988733,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 222.001086,
+				"end": 223.001086,
+				"seconds": 1.0,
+				"bits_per_second": 999897571.0181347,
+				"bytes": 124987196,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 223.000888,
+				"end": 224.000888,
+				"seconds": 1.0,
+				"bits_per_second": 999331499.5956085,
+				"bytes": 124916437,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 224.000207,
+				"end": 225.000207,
+				"seconds": 1.0,
+				"bits_per_second": 999653320.0925728,
+				"bytes": 124956665,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 225.001136,
+				"end": 226.001136,
+				"seconds": 1.0,
+				"bits_per_second": 999956849.4119159,
+				"bytes": 124994606,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 226.001146,
+				"end": 227.001146,
+				"seconds": 1.0,
+				"bits_per_second": 999442250.4144113,
+				"bytes": 124930281,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 227.001175,
+				"end": 228.001175,
+				"seconds": 1.0,
+				"bits_per_second": 999434214.3627409,
+				"bytes": 124929276,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 228.001116,
+				"end": 229.001116,
+				"seconds": 1.0,
+				"bits_per_second": 1000001432.1332887,
+				"bytes": 125000179,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 229.001156,
+				"end": 230.001156,
+				"seconds": 1.0,
+				"bits_per_second": 999505496.2365739,
+				"bytes": 124938187,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 230.001125,
+				"end": 231.001125,
+				"seconds": 1.0,
+				"bits_per_second": 999572528.0077714,
+				"bytes": 124946566,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 231.001123,
+				"end": 232.001123,
+				"seconds": 1.0,
+				"bits_per_second": 999972062.9845016,
+				"bytes": 124996507,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 232.001144,
+				"end": 233.001144,
+				"seconds": 1.0,
+				"bits_per_second": 999671200.0383054,
+				"bytes": 124958900,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 233.001113,
+				"end": 234.001113,
+				"seconds": 1.0,
+				"bits_per_second": 999485819.9403104,
+				"bytes": 124935727,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 234.00054,
+				"end": 235.00054,
+				"seconds": 1.0,
+				"bits_per_second": 999950063.1562066,
+				"bytes": 124993757,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 235.001131,
+				"end": 236.001131,
+				"seconds": 1.0,
+				"bits_per_second": 999885204.3198582,
+				"bytes": 124985650,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 236.001135,
+				"end": 237.001135,
+				"seconds": 1.0,
+				"bits_per_second": 999284130.75787,
+				"bytes": 124910516,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 237.000419,
+				"end": 238.000419,
+				"seconds": 1.0,
+				"bits_per_second": 1000031438.5970467,
+				"bytes": 125003929,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 238.000822,
+				"end": 239.000822,
+				"seconds": 1.0,
+				"bits_per_second": 999989187.5439259,
+				"bytes": 124998648,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 239.001098,
+				"end": 240.001098,
+				"seconds": 1.0,
+				"bits_per_second": 999323179.1603868,
+				"bytes": 124915397,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 240.001141,
+				"end": 241.001141,
+				"seconds": 1.0,
+				"bits_per_second": 1000046491.9098653,
+				"bytes": 125005811,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 241.000782,
+				"end": 242.000782,
+				"seconds": 1.0,
+				"bits_per_second": 999896626.4439926,
+				"bytes": 124987078,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 242.00114,
+				"end": 243.00114,
+				"seconds": 1.0,
+				"bits_per_second": 999386817.7313988,
+				"bytes": 124923352,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 243.000355,
+				"end": 244.000355,
+				"seconds": 1.0,
+				"bits_per_second": 1000028849.4289182,
+				"bytes": 125003606,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 244.000716,
+				"end": 245.000716,
+				"seconds": 1.0,
+				"bits_per_second": 999892562.1826651,
+				"bytes": 124986570,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 245.001099,
+				"end": 246.001099,
+				"seconds": 1.0,
+				"bits_per_second": 999402046.3025492,
+				"bytes": 124925255,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 246.000347,
+				"end": 247.000347,
+				"seconds": 1.0,
+				"bits_per_second": 1000064227.6887867,
+				"bytes": 125008028,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 247.0007,
+				"end": 248.0007,
+				"seconds": 1.0,
+				"bits_per_second": 999833470.6558336,
+				"bytes": 124979183,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 248.001258,
+				"end": 249.001258,
+				"seconds": 1.0,
+				"bits_per_second": 999367839.8894371,
+				"bytes": 124920979,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 249.001155,
+				"end": 250.001155,
+				"seconds": 1.0,
+				"bits_per_second": 1000028235.9566375,
+				"bytes": 125003529,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 250.001127,
+				"end": 251.001127,
+				"seconds": 1.0,
+				"bits_per_second": 1000014131.7075558,
+				"bytes": 125001766,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 251.00111,
+				"end": 252.00111,
+				"seconds": 1.0,
+				"bits_per_second": 999430296.7854158,
+				"bytes": 124928787,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 252.001105,
+				"end": 253.001105,
+				"seconds": 1.0,
+				"bits_per_second": 999958357.8057245,
+				"bytes": 124994794,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 253.001167,
+				"end": 254.001167,
+				"seconds": 1.0,
+				"bits_per_second": 999939061.9251999,
+				"bytes": 124992382,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 254.001092,
+				"end": 255.001092,
+				"seconds": 1.0,
+				"bits_per_second": 999406223.0969409,
+				"bytes": 124925777,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 255.001151,
+				"end": 256.001151,
+				"seconds": 1.0,
+				"bits_per_second": 1000038810.0957394,
+				"bytes": 125004851,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 256.000646,
+				"end": 257.000646,
+				"seconds": 1.0,
+				"bits_per_second": 1000010576.1747603,
+				"bytes": 125001322,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 257.00115,
+				"end": 258.00115,
+				"seconds": 1.0,
+				"bits_per_second": 999413360.6107066,
+				"bytes": 124926670,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 258.001129,
+				"end": 259.001129,
+				"seconds": 1.0,
+				"bits_per_second": 1000071377.0122019,
+				"bytes": 125008922,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 259.001141,
+				"end": 260.001141,
+				"seconds": 1.0,
+				"bits_per_second": 1000032863.2341609,
+				"bytes": 125004107,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 260.001185,
+				"end": 261.001185,
+				"seconds": 1.0,
+				"bits_per_second": 999328636.692376,
+				"bytes": 124916079,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 261.001246,
+				"end": 262.001246,
+				"seconds": 1.0,
+				"bits_per_second": 999966863.5258827,
+				"bytes": 124995857,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 262.001119,
+				"end": 263.001119,
+				"seconds": 1.0,
+				"bits_per_second": 1000071983.65037,
+				"bytes": 125008997,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 263.001138,
+				"end": 264.001138,
+				"seconds": 1.0,
+				"bits_per_second": 999376726.3435565,
+				"bytes": 124922090,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 264.000146,
+				"end": 265.000146,
+				"seconds": 1.0,
+				"bits_per_second": 999817441.3444797,
+				"bytes": 124977180,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 265.00112,
+				"end": 266.00112,
+				"seconds": 1.0,
+				"bits_per_second": 999916054.8878018,
+				"bytes": 124989506,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 266.001267,
+				"end": 267.001267,
+				"seconds": 1.0,
+				"bits_per_second": 999462637.5012599,
+				"bytes": 124932829,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 267.001119,
+				"end": 268.001119,
+				"seconds": 1.0,
+				"bits_per_second": 999537356.0842675,
+				"bytes": 124942169,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 268.00112,
+				"end": 269.00112,
+				"seconds": 1.0,
+				"bits_per_second": 1000040250.9512056,
+				"bytes": 125005031,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 269.001113,
+				"end": 270.001113,
+				"seconds": 1.0,
+				"bits_per_second": 999336471.822884,
+				"bytes": 124917058,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 270.001124,
+				"end": 271.001124,
+				"seconds": 1.0,
+				"bits_per_second": 999567768.1923422,
+				"bytes": 124945971,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 271.001125,
+				"end": 272.001125,
+				"seconds": 1.0,
+				"bits_per_second": 1000134726.2821465,
+				"bytes": 125016840,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 272.001147,
+				"end": 273.001147,
+				"seconds": 1.0,
+				"bits_per_second": 999505309.8989626,
+				"bytes": 124938163,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 273.00125,
+				"end": 274.00125,
+				"seconds": 1.0,
+				"bits_per_second": 999464379.4076633,
+				"bytes": 124933047,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 274.001128,
+				"end": 275.001128,
+				"seconds": 1.0,
+				"bits_per_second": 999998168.2328273,
+				"bytes": 124999771,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 275.000799,
+				"end": 276.000799,
+				"seconds": 1.0,
+				"bits_per_second": 999624792.0943192,
+				"bytes": 124953099,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 276.001085,
+				"end": 277.001085,
+				"seconds": 1.0,
+				"bits_per_second": 999459112.7590071,
+				"bytes": 124932389,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 277.001115,
+				"end": 278.001115,
+				"seconds": 1.0,
+				"bits_per_second": 999995991.8509477,
+				"bytes": 124999498,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 278.000828,
+				"end": 279.000828,
+				"seconds": 1.0,
+				"bits_per_second": 999689815.0386866,
+				"bytes": 124961226,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 279.001134,
+				"end": 280.001134,
+				"seconds": 1.0,
+				"bits_per_second": 999279421.2492422,
+				"bytes": 124909927,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 280.001132,
+				"end": 281.001132,
+				"seconds": 1.0,
+				"bits_per_second": 1000141804.4179343,
+				"bytes": 125017725,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 281.001171,
+				"end": 282.001171,
+				"seconds": 1.0,
+				"bits_per_second": 999796028.9835198,
+				"bytes": 124974503,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 282.001204,
+				"end": 283.001204,
+				"seconds": 1.0,
+				"bits_per_second": 999466794.2244469,
+				"bytes": 124933349,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 283.001141,
+				"end": 284.001141,
+				"seconds": 1.0,
+				"bits_per_second": 999984831.4564788,
+				"bytes": 124998103,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 284.001144,
+				"end": 285.001144,
+				"seconds": 1.0,
+				"bits_per_second": 999852528.3209859,
+				"bytes": 124981566,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 285.001167,
+				"end": 286.001167,
+				"seconds": 1.0,
+				"bits_per_second": 999322062.3291682,
+				"bytes": 124915257,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 286.001125,
+				"end": 287.001125,
+				"seconds": 1.0,
+				"bits_per_second": 1000028514.7521796,
+				"bytes": 125003564,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 287.001122,
+				"end": 288.001122,
+				"seconds": 1.0,
+				"bits_per_second": 999961814.8331792,
+				"bytes": 124995226,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 288.001147,
+				"end": 289.001147,
+				"seconds": 1.0,
+				"bits_per_second": 999383379.1738055,
+				"bytes": 124922922,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 289.001119,
+				"end": 290.001119,
+				"seconds": 1.0,
+				"bits_per_second": 999984815.6808656,
+				"bytes": 124998101,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 290.00073,
+				"end": 291.00073,
+				"seconds": 1.0,
+				"bits_per_second": 999875433.6881102,
+				"bytes": 124984429,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 291.001129,
+				"end": 292.001129,
+				"seconds": 1.0,
+				"bits_per_second": 999452790.9786663,
+				"bytes": 124931598,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 292.001128,
+				"end": 293.001128,
+				"seconds": 1.0,
+				"bits_per_second": 999994502.8098022,
+				"bytes": 124999312,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 293.001102,
+				"end": 294.001102,
+				"seconds": 1.0,
+				"bits_per_second": 1000048498.8623906,
+				"bytes": 125006062,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 294.001142,
+				"end": 295.001142,
+				"seconds": 1.0,
+				"bits_per_second": 999434207.5096768,
+				"bytes": 124929275,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 295.001101,
+				"end": 296.001101,
+				"seconds": 1.0,
+				"bits_per_second": 1000042507.6928375,
+				"bytes": 125005313,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 296.001125,
+				"end": 297.001125,
+				"seconds": 1.0,
+				"bits_per_second": 999947378.3809072,
+				"bytes": 124993422,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 297.001132,
+				"end": 298.001132,
+				"seconds": 1.0,
+				"bits_per_second": 999385153.7476876,
+				"bytes": 124923144,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 298.00114,
+				"end": 299.00114,
+				"seconds": 1.0,
+				"bits_per_second": 1000083172.9733723,
+				"bytes": 125010396,
+				"retransmits": 0
+			}
+		},
+		{
+			"sum": {
+				"start": 299.001199,
+				"end": 300.001199,
+				"seconds": 1.0,
+				"bits_per_second": 999292255.4943086,
+				"bytes": 124911531,
+				"retransmits": 0
+			}
+		}
+	],
+	"end": {
+		"sum_received": {
+			"bits_per_second": 999759209.9307603
+		}
+	}
+}
