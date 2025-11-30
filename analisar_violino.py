@@ -130,14 +130,14 @@ def plotar_grafico_violino(arquivos_json, titulo="Comparação de Vazão - Gráf
 if __name__ == "__main__":
     # Exemplo de uso: Comparando diferentes cenários
     arquivos = {
-        "P4EMU 2G TCP": "p4emu/p4emu_1_2G_tcp/media_testes.json",
-        "P4EMU 2G UDP": "p4emu/p4emu_1_2G_udp/media_testes.json",
-        "XDP 2G TCP": "xdp/xdp_1_2G_tcp/media_testes.json",
-        "XDP 2G UDP": "xdp/xdp_1_2G_udp/media_testes.json",
+        "P4EMU 3G TCP": "p4emu/p4emu_1_3G_tcp/media_testes.json",
+        "P4EMU 3G UDP": "p4emu/p4emu_1_3G_udp/media_testes.json",
+        "XDP 3G TCP": "xdp/xdp_1_3G_tcp/media_testes.json",
+        "XDP 3G UDP": "xdp/xdp_1_3G_udp/media_testes.json",
     }
     
     plotar_grafico_violino(
         arquivos_json=arquivos,
-        titulo="Comparação de Vazão: P4EMU vs XDP (2G)",
-        arquivo_saida="violino_2g.png"
+        titulo="Comparação de Vazão: P4EMU vs XDP (3G)",
+        arquivo_saida="violino_3g.png"
     )
